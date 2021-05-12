@@ -19,4 +19,4 @@ Você pode conferir o [dataset aqui](https://www.kaggle.com/olistbr/brazilian-ec
 ## Traduzir e organizar
 Assim vieram os dados: 
 >
-[print](https://postimg.cc/DWCrM20Y)
+[print](https://github.com/MatheusFran/Limpeza-de-Dados-Estruturados/blob/main/print.png)
