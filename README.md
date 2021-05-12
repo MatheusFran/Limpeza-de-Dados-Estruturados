@@ -14,13 +14,15 @@ Chega de enrolação , vamos lá!
 ## Dataset
 O primeiro desafio foi encontrar um dataset, relativamente grande. Encontrei um da **Olist**,que é uma empresa de plataforma de vendas online.
 Você pode conferir o [dataset aqui](https://www.kaggle.com/olistbr/brazilian-ecommerce)
->The first challenge was to found a big dataset. I found in here, its a dataset of **Olist**, a company of online sell.You can to found [in here.](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+>The first challenge was to find a big dataset. I found [in here](https://www.kaggle.com/olistbr/brazilian-ecommerce) its a dataset of **Olist**, a company of online sell.
 >
 ## Traduzir e organizar
 Assim vieram os dados: 
 >how came the datas:
 >
 ![print](https://github.com/MatheusFran/Limpeza-de-Dados-Estruturados/blob/main/print.png)
-processo de tradução e limpeza:
->Process of translation and cleaning:
->![print2](
+
+#A questão é: Como podemos melhorar a satisfação do cliente?
+antes de responder a pergunta fiz a limpeza e observação dos dados apresentados. A resposta,ou seja, a analise é assunto para outro momento.
+>The question is: How can we make a better customers sucess?
+>Before, i cleaning and see the datas. Its the first !
