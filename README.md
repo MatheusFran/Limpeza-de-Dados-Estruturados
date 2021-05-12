@@ -18,5 +18,9 @@ Você pode conferir o [dataset aqui](https://www.kaggle.com/olistbr/brazilian-ec
 >
 ## Traduzir e organizar
 Assim vieram os dados: 
+>how came the datas:
 >
-[print](https://github.com/MatheusFran/Limpeza-de-Dados-Estruturados/blob/main/print.png)
+![print](https://github.com/MatheusFran/Limpeza-de-Dados-Estruturados/blob/main/print.png)
+processo de tradução e limpeza:
+>Process of translation and cleaning:
+>![print2](
