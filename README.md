@@ -2,7 +2,7 @@
 Oi, tudo bem? Me chamo Matheus, e estou aqui para lhe mostrar um pouco sobre limpeza de dados. 
 
 É bom avisar que aqui no Github vou mostrar o lado mais técnico, se quiser acompanhar todas as estapas de pensamento,
-basta [clicar aqui](google.com)  onde explico tudo no meu blog.
+basta [clicar aqui](https://matheus-francisco.medium.com/limpeza-de-dados-estruturados-5e42f57f70c5)  onde explico tudo no meu blog.
 
 Chega de enrolação , vamos lá!
 >Hi! I´m Matheus( is like 'Mathews'), and i want to show a little of my process to do the clear of datas.
